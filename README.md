@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @OmarXPeac
-- 👀 I’m interested in Programming, making games, c++, python, ethical hacking
-- 🌱 I’m currently learning python, c++, ethical, making games
+Sup, I’m @OmarXPeac
+I’m interested in Programming, making games, c++
+I’m currently learning c++, SDL2, making games
